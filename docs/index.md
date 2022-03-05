@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CHARM project at NLP Lab
 
 You can use the [editor on GitHub](https://github.com/dcharm/dcharm.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 

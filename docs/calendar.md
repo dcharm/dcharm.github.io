@@ -1,7 +1,7 @@
 ---
 title: CHARM Calendar
 <!-- layout: -->
-permalink: "/charm"
+<!-- permalink: "/calendar" -->
 <!-- published: false -->
 ---
 <!-- <div class="content h-100"> </div>-->

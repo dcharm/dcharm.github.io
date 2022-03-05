@@ -1,8 +1,6 @@
 ---
 title: CHARM Calendar
-<!-- layout: -->
-<!-- permalink: "/calendar" -->
-<!-- published: false -->
+layout: blank 
 ---
 <center>
 <iframe

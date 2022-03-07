@@ -2,4 +2,7 @@
 
 Advised by Prof. Kathleen McKeown, Department of Computer Science, Columbia University
 
-[Calendar](/calendar) 
+
+## [Reading](/reading/) 
+
+## [Calendar](/calendar) 
